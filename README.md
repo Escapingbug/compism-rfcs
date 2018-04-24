@@ -1,4 +1,4 @@
-[compism logo](/images/logo.jpg)
+![compism logo](/images/logo.jpg)
 
 # compism-rfcs
 Project is named `compism`, which can be explained as `just Completed dIsaSseMbler` or
